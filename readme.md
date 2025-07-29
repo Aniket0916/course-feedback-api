@@ -68,7 +68,7 @@ course-feedback-api/
 └── README.md
 
 ### Future Improvements
-Add SQLite or MongoDB database
+Add SQLite or MongoDB database. As I'm just using a dictionary that is machine memory in order to store the data. We can convert the project to use SQL database to store the data. But for now I'm going to keep it as it is as i just wanted to get my hands on FastAPI and HTML
 Add authentication for admin access
 Store and display feedback in a table view
 Export feedback as CSV or Excel
