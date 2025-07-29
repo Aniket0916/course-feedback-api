@@ -58,9 +58,6 @@ http://127.0.0.1:8000/docs
 
 
 ### Folder Structure
-csharp
-Copy
-Edit
 course-feedback-api/
 ├── main.py               # FastAPI application
 ├── templates/
